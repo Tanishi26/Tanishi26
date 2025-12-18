@@ -23,17 +23,25 @@
 
 ## 🚀 Projects
 
+🌷 **Docs++ — Distributed Collaborative Document System**  
+*A Google Docs–style distributed system built in C with multi-client concurrency, access control, and persistent storage.*  
+👉 https://github.com/Tanishi26/Docsplusplus
+
+🌷 **POSIX C Shell**  
+*A Unix shell built from scratch in C supporting job control, pipes, redirection, and signal handling.*  
+👉 https://github.com/Tanishi26/posix-c-shell
+
+🌷 **Reliable UDP Protocol**  
+*A custom TCP-like reliable transport protocol implemented over UDP with retransmission, flow control, and handshakes.*  
+👉 https://github.com/Tanishi26/reliable-udp-protocol
+
+🌷 **C-Shark — Terminal Packet Sniffer**  
+*A libpcap-based packet sniffer that decodes live network traffic across OSI layers with filtering and hex inspection.*  
+👉 https://github.com/Tanishi26/c-shark-packet-sniffer
+
 🌷 **Smart Walking Stick for the Visually Impaired**  
-IoT-based project to assist visually impaired users using sensors and alerts  
-👉 [View Repository](https://github.com/mehr1sh/Smart-Walking-Stick)
-
-🌷 **Operating Systems & Networks Course Project**  
-Worked on system-level concepts like processes, memory management, and system calls  
-👉 [View Repository](https://github.com/Tanishi26/project-name)
-
-🌷 **Data Structures & Algorithms Implementations**  
-Hands-on implementations of stacks, queues, trees, heaps, and sorting algorithms  
-👉 [View Repository](https://github.com/Tanishi26/project-name)
+*An IoT assistive device using sensors and alerts to improve navigation for visually impaired users.*  
+👉 https://github.com/mehr1sh/Smart-Walking-Stick
 
 ---
 
