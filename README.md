@@ -8,24 +8,24 @@
 ---
 
 ## 🛠️ Languages & Tools
-
-![C](https://img.shields.io/badge/C-ff69b4?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-ff85c1?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-ffc0cb?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/HTML5-ffb6c1?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-ff85c1?style=for-the-badge&logo=javascript)
-![MySQL](https://img.shields.io/badge/MySQL-ffc0cb?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-ff69b4?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-ff85c1?style=for-the-badge&logo=linux)
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+</p>
 ---
 
 ## 🚀 Projects
 
 🌷 **Smart Walking Stick for the Visually Impaired**  
 IoT-based project to assist visually impaired users using sensors and alerts  
-👉 [View Repository](https://github.com/Tanishi26/project-name)
+👉 [View Repository](https://github.com/mehr1sh/Smart-Walking-Stick)
 
 🌷 **Operating Systems & Networks Course Project**  
 Worked on system-level concepts like processes, memory management, and system calls  
@@ -39,7 +39,7 @@ Hands-on implementations of stacks, queues, trees, heaps, and sorting algorithms
 
 ## 🌐 Let’s Connect
 
-🌸 **Personal Website**: https://your-website-link
+🌸 **Personal Website**:https://tanishi26.github.io/
 💼 **LinkedIn**:https://www.linkedin.com/in/tanishi-tyagi-113372333/
 📧 **Email**: Tanishi.tyagi78@gmail.com
 
