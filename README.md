@@ -2,12 +2,12 @@
 
 🎓 Computer Science Engineering student at **IIIT Hyderabad**  
 💻 I love coding, learning how systems work, and building meaningful projects  
-💃 Outside tech, I love dancing and exploring new places 🌍  
+💃 Outside tech, I love dancing and exploring new places 
 ✨ Always curious, always learning
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
@@ -21,7 +21,7 @@
 </p>
 ---
 
-## 🚀 Projects
+##  Projects
 
 🌷 **Docs++ — Distributed Collaborative Document System**  
 *A Google Docs–style distributed system built in C with multi-client concurrency, access control, and persistent storage.*  
@@ -45,7 +45,7 @@
 
 ---
 
-## 🌐 Let’s Connect
+##  Let’s Connect
 
 🌸 **Personal Website**:https://tanishi26.github.io/
 💼 **LinkedIn**:https://www.linkedin.com/in/tanishi-tyagi-113372333/
@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Tanishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanishi26&show_icons=true&theme=rose_pine)
 
@@ -61,4 +61,4 @@
 
 ---
 
-💗 Thanks for stopping by! Feel free to explore my repositories 🌷
+Thanks for stopping by! Feel free to explore my repositories 🌷
